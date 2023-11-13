@@ -1,4 +1,4 @@
-# EU Data Visualisation
+# EU Map
 > Maps showing life expectancy in the EU countries.
 <br> Languages & Libraries used: Python, geopandas, Beautiful Soup, matplotlib. 
 <br> Platform: Google Colab.
